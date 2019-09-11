@@ -1,3 +1,5 @@
+
+
 ### E-Ink library
 This library is a simplified and easy-to-use library from WaveShare.
 https://www.waveshare.com/wiki/1.54inch_e-Paper_Module
@@ -9,14 +11,18 @@ As a demonstration of the work, a C# project has been attached, which allows you
 
 Connecting the display to the development as follows:
 
-PA0 - UART-TX
-PA1 - UART-RX
+PA0 -> UART TX
 
-PA5 - SCK
-PA7 - MOSI
-PC4 - DC
-PC5 - RST
-PB0 - BUSY
-PB1 - CS
+PA1 -> UART RX
 
+PA5 -> SCK
 
+PA7 -> MOSI
+
+PC4 -> DC
+
+PC5 -> RST
+
+PB0 -> BUSY
+
+PB1 -> CS

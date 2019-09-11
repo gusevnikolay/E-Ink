@@ -1,0 +1,10 @@
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\bin\Debug\SimpleImage.exe.config
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\bin\Debug\SimpleImage.exe
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\bin\Debug\SimpleImage.pdb
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\obj\Debug\E-Ink.App.csprojAssemblyReference.cache
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\obj\Debug\SimpleImage.MainApp.resources
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\obj\Debug\SimpleImage.Properties.Resources.resources
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\obj\Debug\E-Ink.App.csproj.GenerateResource.cache
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\obj\Debug\E-Ink.App.csproj.CoreCompileInputs.cache
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\obj\Debug\SimpleImage.exe
+C:\Users\HardMachine\Desktop\eink\E-Ink.App\E-Ink.App\obj\Debug\SimpleImage.pdb

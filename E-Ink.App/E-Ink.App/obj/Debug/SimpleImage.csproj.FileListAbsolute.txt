@@ -1,0 +1,10 @@
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\bin\Debug\SimpleImage.exe.config
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\bin\Debug\SimpleImage.exe
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\bin\Debug\SimpleImage.pdb
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\obj\Debug\SimpleImage.csprojAssemblyReference.cache
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\obj\Debug\SimpleImage.Form1.resources
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\obj\Debug\SimpleImage.Properties.Resources.resources
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\obj\Debug\SimpleImage.csproj.GenerateResource.cache
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\obj\Debug\SimpleImage.csproj.CoreCompileInputs.cache
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\obj\Debug\SimpleImage.exe
+C:\Users\gusev\source\repos\SimpleImage\SimpleImage\obj\Debug\SimpleImage.pdb
